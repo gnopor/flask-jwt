@@ -1,8 +1,8 @@
-# Node js JWT authentication and authorization server
+# Flask JWT authentication and authorization server
 
 ## Workflow
 
-### Launch node sever
+### Launch flask sever
 
 ```
 python3 -m venv env
